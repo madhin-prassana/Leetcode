@@ -1,4 +1,5 @@
 // Created by Madhin Prassana on 30/03/25.
+// Leetcode -> 13. Roman to Integer
 #include <iostream>
 #include <unordered_map>
 
@@ -14,22 +15,22 @@ int romanToInt(string s) {
     roman['D'] = 500;
     roman['M'] = 1000;
 
-    int total = 0;
-    int prevValue = 0;
+    int integer = 0;
+    int previousValue = 0;
 
     for (int i = s.length() - 1; i >= 0; i--) {
         int currentValue = roman[s[i]];
 
-        if (currentValue < prevValue) {
-            total -= currentValue;
+        if (currentValue < previousValue) {
+            integer -= currentValue;
         } else {
-            total += currentValue;
+            integer += currentValue;
         }
 
-        prevValue = currentValue;
+        previousValue = currentValue;
     }
 
-    return total;
+    return integer;
 }
 
 int main() {
