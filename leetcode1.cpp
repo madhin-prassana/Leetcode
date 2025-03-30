@@ -37,6 +37,6 @@ int main() {
     string s;
     cout << "Enter a Roman numeral: ";
     cin >> s;
-    cout << "Integer value: " << romanToInt(s) << endl;
+    cout << "Integer value is " << romanToInt(s) << endl;
     return 0;
 }
