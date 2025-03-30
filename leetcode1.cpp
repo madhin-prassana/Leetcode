@@ -1,11 +1,12 @@
 // Created by Madhin Prassana on 30/03/25.
 // Leetcode -> 13. Roman to Integer
+
 #include <iostream>
 #include <unordered_map>
 
 using namespace std;
 
-int romanToInt(string s) {
+int romanToInteger(string s) {
     unordered_map<char, int> roman;
     roman['I'] = 1;
     roman['V'] = 5;
@@ -23,13 +24,12 @@ int romanToInt(string s) {
 
         if (currentValue < previousValue) {
             integer -= currentValue;
-        } else {
+        }
+        else {
             integer += currentValue;
         }
-
         previousValue = currentValue;
     }
-
     return integer;
 }
 
@@ -37,6 +37,6 @@ int main() {
     string s;
     cout << "Enter a Roman numeral: ";
     cin >> s;
-    cout << "Integer value is " << romanToInt(s) << endl;
+    cout << "Integer value is " << romanToInteger(s) << endl;
     return 0;
 }
