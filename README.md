@@ -6,5 +6,7 @@ This is my first Leetcode question and I am confused why it throws a compilation
 Day 2 -> 125. Valid Palindrome
 This time I solved the code by building on the preset snippet (using a Solution class and then calling it in Main) so I faced no issues at all.
 
+Day 3 -> 1. Two Sum
+[ Time taken: 8 m 44 s ] This is the first time I'm solving the question in LeetCode itself and not on Clion, hence the timer.
 
 
