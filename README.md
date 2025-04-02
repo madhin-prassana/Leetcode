@@ -9,7 +9,10 @@ This time I solved the code by building on the preset snippet (using a Solution 
 Day 3 -> 1. Two Sum
 [ Time taken: 8 m 44 s ] This is the first time I'm solving the question in LeetCode itself and not on Clion, hence the timer.
 
-Day 4 -. 3. Longest Substring without repeating characters
+Day 4 -> 3. Longest Substring without repeating characters
 [ Time taken: 7 m 21 s ] Implementing Sliding Window Protocol with a Hash set.
+
+Day 5 -> 2873. Maximum Value of an Ordered Triplet I
+[ Time taken: 11 m 30 s ] Might not be the most elegant and is definitely not the most time efficient but brute force gets the job done.
 
 
