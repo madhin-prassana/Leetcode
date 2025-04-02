@@ -9,4 +9,7 @@ This time I solved the code by building on the preset snippet (using a Solution 
 Day 3 -> 1. Two Sum
 [ Time taken: 8 m 44 s ] This is the first time I'm solving the question in LeetCode itself and not on Clion, hence the timer.
 
+Day 4 -. 3. Longest Substring without repeating characters
+[ Time taken: 7 m 21 s ] Implementing Sliding Window Protocol with a Hash set.
+
 
