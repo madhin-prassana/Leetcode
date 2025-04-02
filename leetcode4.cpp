@@ -20,7 +20,6 @@ public:
             maxLength = max(maxLength, right - left + 1);
         }
         return maxLength;
-
     }
 };
 
