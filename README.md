@@ -12,7 +12,7 @@ Day 3 -> 1. Two Sum
 Day 4 -> 3. Longest Substring without repeating characters
 [ Time taken: 7 m 21 s ] Implementing Sliding Window Protocol with a Hash set.
 
-Day 5 -> 2873. Maximum Value of an Ordered Triplet I
+Day 4 -> 2873. Maximum Value of an Ordered Triplet I
 [ Time taken: 11 m 30 s ] Might not be the most elegant and is definitely not the most time efficient but brute force gets the job done.
 
 
