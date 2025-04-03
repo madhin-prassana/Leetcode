@@ -15,4 +15,7 @@ Day 4 -> 3. Longest Substring without repeating characters
 Day 4 -> 2873. Maximum Value of an Ordered Triplet I
 [ Time taken: 11 m 30 s ] Might not be the most elegant and is definitely not the most time efficient but brute force gets the job done.
 
+Day 5 -> 9. Palindrome Number
+[ Time taken: 6 m 50 s ] I cannot believe it took me this long to find a goddamn Palindrome. Made a logic error that gave me incorrect output and it took me longer than it should have to figure that out.
+
 
