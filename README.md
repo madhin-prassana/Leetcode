@@ -18,4 +18,7 @@ Day 4 -> 2873. Maximum Value of an Ordered Triplet I
 Day 5 -> 9. Palindrome Number
 [ Time taken: 6 m 50 s ] I cannot believe it took me this long to find a goddamn Palindrome. Made a logic error that gave me incorrect output and it took me longer than it should have to figure that out.
 
+Day 7 -> 67. Add Binary
+[ Time taken: 8 m 58 s ] Yeah, this is not easy. I don't know how they have marked it as one. Spent a lot longer than 9 minutes working on the loop and kept getting incorrect answers and almost though about switching to a different question (which was why I paused) but finally.
+
 
