@@ -21,4 +21,7 @@ Day 5 -> 9. Palindrome Number
 Day 7 -> 67. Add Binary
 [ Time taken: 8 m 58 s ] Yeah, this is not easy. I don't know how they have marked it as one. Spent a lot longer than 9 minutes working on the loop and kept getting incorrect answers and almost though about switching to a different question (which was why I paused) but finally.
 
+Day 8 -> 217. Contains Duplicate
+[ Time taken: 8 m 47 s ] 
+
 
