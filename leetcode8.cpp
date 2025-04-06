@@ -12,7 +12,7 @@ public:
     bool containsDuplicate(vector<int>& nums) {
         unordered_set<int> parsed;
         for (int n : nums) {
-            if(parsed.count(n)) {
+            if(parsed.count(n) == 1) {
                 return true;
             }
             parsed.insert(n);
