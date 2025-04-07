@@ -24,4 +24,6 @@ Day 7 -> 67. Add Binary
 Day 8 -> 217. Contains Duplicate
 [ Time taken: 8 m 47 s ] 
 
+Day 9. -> 136. Single Number
+[ Time taken: 7 m 29 s ] Runtime beats 5.02 % :( but if it works it works.
 
