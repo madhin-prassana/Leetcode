@@ -27,3 +27,6 @@ Day 8 -> 217. Contains Duplicate
 Day 9. -> 136. Single Number
 [ Time taken: 7 m 29 s ] Runtime beats 5.02 % :( but if it works it works.
 
+Day 10. -> (Order)66. Plus One
+[ Time taken: 11 m 18 s ]
+
