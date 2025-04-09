@@ -30,3 +30,6 @@ Day 9. -> 136. Single Number
 Day 10. -> (Order)66. Plus One
 [ Time taken: 11 m 18 s ]
 
+Day 11. -> 70. Climbing Stairs
+[ Time taken: 4 m 22 s ] It's literally just a Fibonacci sequence.
+
