@@ -33,3 +33,6 @@ Day 10. -> (Order)66. Plus One
 Day 11. -> 70. Climbing Stairs
 [ Time taken: 4 m 22 s ] It's literally just a Fibonacci sequence.
 
+Day 12. -> 509. Fibonacci Number
+[ Time taken: 1 m 57 s ] A similar one as yesterday; I didn't have a lot of time today, most of it was spent stressing over a web technologies assignment.
+
