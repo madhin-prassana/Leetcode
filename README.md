@@ -24,15 +24,17 @@ Day 7 -> 67. Add Binary
 Day 8 -> 217. Contains Duplicate
 [ Time taken: 8 m 47 s ] 
 
-Day 9. -> 136. Single Number
+Day 9 -> 136. Single Number
 [ Time taken: 7 m 29 s ] Runtime beats 5.02 % :( but if it works it works.
 
-Day 10. -> (Order)66. Plus One
+Day 10 -> (Order)66. Plus One
 [ Time taken: 11 m 18 s ]
 
-Day 11. -> 70. Climbing Stairs
+Day 11 -> 70. Climbing Stairs
 [ Time taken: 4 m 22 s ] It's literally just a Fibonacci sequence.
 
-Day 12. -> 509. Fibonacci Number
+Day 12 -> 509. Fibonacci Number
 [ Time taken: 1 m 57 s ] A similar one as yesterday; I didn't have a lot of time today, most of it was spent stressing over a web technologies assignment.
 
+Day 13 -> 2843. Count Symmetric Integers
+[ Time taken: 7 m 19 s ]
