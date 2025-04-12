@@ -38,3 +38,6 @@ Day 12 -> 509. Fibonacci Number
 
 Day 13 -> 2843. Count Symmetric Integers
 [ Time taken: 7 m 19 s ]
+
+Day 14 -> 258. Add Digits
+[ Time taken: 3 m 56 s ]
