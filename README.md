@@ -41,3 +41,6 @@ Day 13 -> 2843. Count Symmetric Integers
 
 Day 14 -> 258. Add Digits
 [ Time taken: 3 m 56 s ]
+
+Day 15 -> 263. Ugly Number
+[ Time taken: 2 m 21 s ] Probably the easiest question in the entirety of LeetCode.
