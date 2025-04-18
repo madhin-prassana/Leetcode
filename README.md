@@ -44,3 +44,6 @@ Day 14 -> 258. Add Digits
 
 Day 15 -> 263. Ugly Number
 [ Time taken: 2 m 21 s ] Probably the easiest question in the entirety of LeetCode.
+
+Day 16 -> 268. Missing Number
+[ Time taken: 4 m 57 s ]
